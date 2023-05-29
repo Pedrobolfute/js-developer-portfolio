@@ -4,52 +4,52 @@
   "place": "Nova Era - MG",
   "phone": "(31) 98803-9679",
   "mail": "pepenike-101@hotmail.com",
-  "photo": "https://raw.githubusercontent.com/Pedrobolfute/provocation-100-diebus/main/dia%23013/assets/img/3.png", 
+  "photo": "https://raw.githubusercontent.com/Pedrobolfute/provocation-100-diebus/main/dia%23013assets/img/3.png", 
   "skills": {
     "hardSkills": [
       {
         "name": "Html",
-        "logo": "/assets/img/icons/tools/html.svg"
+        "logo": "assets/img/icons/tools/html.svg"
       },
       {
         "name": "Css",
-        "logo": "/assets/img/icons/tools/css.svg"
+        "logo": "assets/img/icons/tools/css.svg"
       },
       {
         "name": "JavaScript",
-        "logo": "/assets/img/icons/tools/javaScript.svg"
+        "logo": "assets/img/icons/tools/javaScript.svg"
       },
       {
         "name": "Git",
-        "logo": "/assets/img/icons/tools/git.svg"
+        "logo": "assets/img/icons/tools/git.svg"
       },
       {
         "name": "Figma",
-        "logo": "/assets/img/icons/tools/figma.svg"
+        "logo": "assets/img/icons/tools/figma.svg"
       },
       {
         "name": "MySql",
-        "logo": "/assets/img/icons/tools/mysql.svg"
+        "logo": "assets/img/icons/tools/mysql.svg"
       },
       {
         "name": "AWS",
-        "logo": "/assets/img/icons/tools/aws.svg"
+        "logo": "assets/img/icons/tools/aws.svg"
       },
       {
         "name": "WordPress",
-        "logo": "/assets/img/icons/tools/wordpress.svg"
+        "logo": "assets/img/icons/tools/wordpress.svg"
       },
       {
         "name": "Github",
-        "logo": "/assets/img/icons/tools/github.svg"
+        "logo": "assets/img/icons/tools/github.svg"
       },
       {
         "name": "Linux",
-        "logo": "/assets/img/icons/tools/linux.svg"
+        "logo": "assets/img/icons/tools/linux.svg"
       },
       {
         "name": "NodeJs",
-        "logo": "/assets/img/icons/tools/nodejs.svg"
+        "logo": "assets/img/icons/tools/nodejs.svg"
       }
     ],
     "softSkills": [
