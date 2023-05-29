@@ -122,19 +122,24 @@
   "portfolio": [
     {
       "name": "Calculadora em JavaScript",
-      "gitHub": "https://github.com/Pedrobolfute/calculator"
+      "src": "https://github.com/Pedrobolfute/calculator",
+      "site" : "GitHub"
     },
     {
       "name": "Responsive IMC em JavaScript",
-      "gitHub": "https://github.com/Pedrobolfute/responsive-IMC"
+      "src": "https://github.com/Pedrobolfute/responsive-IMC",
+      "site" : "GitHub"
     },
     {
       "name": "BashScript explora bug no Github",
-      "gitHub": "https://github.com/Pedrobolfute/Verdinho"
+      "src": "https://github.com/Pedrobolfute/Verdinho",
+      "site" : "GitHub"
     },
     {
       "name": "WordPress Site",
-      "wordPress": "https://diarionfoot.com/"
+      "src": "https://diarionfoot.com/",
+      "site" : "WordPress"
+
     }
   ],
   "experiences": [
