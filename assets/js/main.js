@@ -42,8 +42,8 @@ function updateProfilePortfolio(profileData){
   const profilePortfolio = document.querySelector('.portfolio')
   profilePortfolio.innerHTML = profileData.portfolio.map(function(data){
    return `<li>
-    <h3 class="title ${data.gitHub ? 'github' : ''}">${data.name}</h3>
-    <a href="${data.gitHub}" target="_blank">${data.gitHub}</a>
+    <h3 class="title ${data.site === 'GitHub' ? 'github' : ''}">${data.name}</h3>
+    <a href="${data.src}" target="_blank">${data.src}</a>
     </li>`}).join('')
 }
 
