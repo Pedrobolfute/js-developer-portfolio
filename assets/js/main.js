@@ -47,6 +47,22 @@ function updateProfilePortfolio(profileData){
     </li>`}).join('')
 }
 
+function updateProfileXp(profileData){
+  const profileXp = document.querySelector('.experience')
+
+  profileXp.innerHTML = profileData.experiences.map(xp => `
+  
+  <li>
+  <h3 class="title">${xp.name}</h3>
+  <p class="period">${xp.period.start}-${xp.period.end}</p>
+  <p>
+    ${xp.description} 
+  </p>
+</li>
+  
+  `).join('')
+}
+
 (async () => {
   const profileData = await requestJsonInfo()
   console.log(profileData)
@@ -55,4 +71,5 @@ function updateProfilePortfolio(profileData){
   updateProfileSkills(profileData)
   updateProfileLanguage(profileData)
   updateProfilePortfolio(profileData)
+  updateProfileXp(profileData)
 })()
