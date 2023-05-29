@@ -3,6 +3,10 @@ function updateProfilePhoto(profileData){
 }
 
 function updateProfileInfo(profileData){
+  const profilePhoto = document.querySelector('.header img')
+  profilePhoto.src = profileData.photo
+  profilePhoto.alt = profileData.name
+
   const profileName = document.querySelector('.profileName')
   profileName.textContent = profileData.name
 
@@ -19,7 +23,6 @@ function updateProfileInfo(profileData){
   const profileEmail = document.querySelector('.myEmail')
   profileEmail.textContent = profileData.mail
   profileEmail.href = `mailto: ${profileData.mail}`
-
 }
 
 
