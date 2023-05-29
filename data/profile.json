@@ -1,78 +1,168 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Pedro H Salomé Paixão",
+  "title": "Estudante",
+  "place": "Nova Era - MG",
+  "phone": "(31) 98803-9679",
+  "mail": "pepenike-101@hotmail.com",
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "Html",
+        "logo": "/assets/img/icons/tools/html.svg"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "Css",
+        "logo": "/assets/img/icons/tools/css.svg"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "JavaScript",
+        "logo": "/assets/img/icons/tools/javaScript.svg"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "name": "Git",
+        "logo": "/assets/img/icons/tools/git.svg"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "Figma",
+        "logo": "/assets/img/icons/tools/figma.svg"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "MySql",
+        "logo": "/assets/img/icons/tools/mysql.svg"
+      },
+      {
+        "name": "AWS",
+        "logo": "/assets/img/icons/tools/aws.svg"
+      },
+      {
+        "name": "WordPress",
+        "logo": "/assets/img/icons/tools/wordpress.svg"
+      },
+      {
+        "name": "Github",
+        "logo": "/assets/img/icons/tools/github.svg"
+      },
+      {
+        "name": "Linux",
+        "logo": "/assets/img/icons/tools/linux.svg"
+      },
+      {
+        "name": "NodeJs",
+        "logo": "/assets/img/icons/tools/nodejs.svg"
       }
     ],
     "softSkills": [
-      "Empatia",
       "Liderança",
+      "Empatia",
+      "Organização",
       "Trabalho em equipe",
       "Flexibilidade",
-      "Organização"
+      "Esforçado"
     ]
   },
   "languages": [
-    "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    {
+      "name": "Português",
+      "level": "Nativo"
+    },
+    {
+      "name": "Inglês",
+      "level": "Intermediário"
+    },
+    {
+      "name": "Japonês",
+      "level": "Básico"
+    }
+  ],
+  "education": [
+    {
+      "name": "dio.me",
+      "description": "Aprendizado contínuo na maior plataforma de educação aberta da América Latina.",
+      "institute": "Digital Innovation One (DIO)",
+      "period": {
+        "start": "2022",
+        "end": "Atualmente"
+      },
+      "certificates": [
+        {
+          "name": "Formação: JavaScript Developer (39h)",
+          "link": "https://www.dio.me/certificate/..."
+        }
+      ]
+    },
+    {
+      "name": "Técnico em Auntomação Industrial.",
+      "description": "Estudos de Elétrica; Mecânica; Pneumática; Instrumentação e Controle; Programação em C e ladder; e IoT para industrial 4.0.",
+      "institute": "Universidade de São Paulo (USP)",
+      "period": {
+        "start": "2016",
+        "end": "2018"
+      }
+    },
+    {
+      "name": "Graduação Tecnológica em Segurança da Informação.",
+      "description": "Estudo de técnica e formas de proteção à informação digital.",
+      "institute": "Universidade Católica de Brasília",
+      "period": {
+        "start": "2019",
+        "end": "2022"
+      }
+    },
+    {
+      "name": "Licienciatura em Ciencias da Computação",
+      "description": "Estudos Tecnológicos, Pedagógicos e Científicos de métodos e procedimentos para melhorar o desenvolvimento da educação com ajuda das tecnologias.",
+      "institute": "Instituto Federal de Educação, Ciência e Tecnologia Baiano (IFBAIANO)",
+      "period": {
+        "start": "2020",
+        "end": "Atualmente"
+      }
+    }
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
-      "github": true
+      "name": "Calculadora em JavaScript",
+      "gitHub": "https://github.com/Pedrobolfute/calculator"
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
-      "github": true
+      "name": "Responsive IMC em JavaScript",
+      "gitHub": "https://github.com/Pedrobolfute/responsive-IMC"
+    },
+    {
+      "name": "BashScript explora bug no Github",
+      "gitHub": "https://github.com/Pedrobolfute/Verdinho"
+    },
+    {
+      "name": "WordPress Site",
+      "gitHub": "https://diarionfoot.com/"
     }
   ],
-  "professionalExperience": [
+  "experiences": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Scrum Master no projeto da faculdade / Ifbaiano",
+      "description": "Experiência muito gratificante como Scrum Master usando metodologias ágeis como pré-requisito para conclusão da matéria engenharia de software no desenvolvimento do projeto portaria do ifbaiano. ",
+      "institute": "Ifbaiano",
+      "period": {
+        "start": "2022",
+        "end": "2022"
+      }
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Front-end Developer nos peojtos da faculdade/ Ifbaiano",
+      "description": "Novas experências adquiridas desenvolvendo projetos na disciplina de WEB 1, Juntamente com o meu exelente grupo de projetos, ultilizando dos métodos de versionamento de código aprendidas na matéria de Análise de Projeto de Sistemas.",
+      "institute": "Ifbaiano",
+      "period": {
+        "start": "2023",
+        "end": "Atualmente"
+      }
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Back-end Developer nos peojtos da faculdade/ Ifbaiano",
+      "description": "Experiência sensacional que estou adquirindo em banco de dados, ultilizando o APEX em projetos de banco de dados e em experiências avulsas ultilizando o Dbeaver com Mysql e JavaScript.",
+      "institute": "Ifbaiano",
+      "period": {
+        "start": "2023",
+        "end": "Atualmente"
+      }
     }
   ]
 }
