@@ -1,128 +1,167 @@
 {
-  "nome": "Venilton FalvoJr",
-  "titulo": "Education Tech Lead na DIO",
-  "localidade": {
-    "cidade": "Araraquara",
-    "estado": "São Paulo",
-    "pais": "Brasil"
-  },
-  "telefone": "(16) 99721-8281",
-  "email": "venilton@dio.me",
+  "name": "Pedro H Salomé Paixão",
+  "title": "Estudante",
+  "place": "Nova Era - MG",
+  "phone": "(31) 98803-9679",
+  "mail": "pepenike-101@hotmail.com",
   "skills": {
     "hardSkills": [
       {
-        "nome": "Android",
-        "logo": "TODO"
+        "name": "Html",
+        "logo": "/assets/img/icons/tools/html.svg"
       },
       {
-        "nome": "Java",
-        "logo": "TODO"
+        "name": "Css",
+        "logo": "/assets/img/icons/tools/css.svg"
       },
       {
-        "nome": "Kotlin",
-        "logo": "TODO"
+        "name": "JavaScript",
+        "logo": "/assets/img/icons/tools/javaScript.svg"
+      },
+      {
+        "name": "Git",
+        "logo": "/assets/img/icons/tools/git.svg"
+      },
+      {
+        "name": "Figma",
+        "logo": "/assets/img/icons/tools/figma.svg"
+      },
+      {
+        "name": "MySql",
+        "logo": "/assets/img/icons/tools/mysql.svg"
+      },
+      {
+        "name": "AWS",
+        "logo": "/assets/img/icons/tools/aws.svg"
+      },
+      {
+        "name": "WordPress",
+        "logo": "/assets/img/icons/tools/wordpress.svg"
+      },
+      {
+        "name": "Github",
+        "logo": "/assets/img/icons/tools/github.svg"
+      },
+      {
+        "name": "Linux",
+        "logo": "/assets/img/icons/tools/linux.svg"
+      },
+      {
+        "name": "NodeJs",
+        "logo": "/assets/img/icons/tools/nodejs.svg"
       }
     ],
     "softSkills": [
-      "Comunicação",
+      "Liderança",
       "Empatia",
-      "Poder de Sedução Imcomparável"
+      "Organização",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Esforçado"
     ]
   },
-  "idiomas": [
+  "languages": [
     {
-      "nome": "Português",
-      "nivel": "Nativo"
+      "name": "Português",
+      "level": "Nativo"
     },
     {
-      "nome": "Inglês",
-      "nivel": "Intermediário"
+      "name": "Inglês",
+      "level": "Intermediário"
     },
     {
-      "nome": "Espanhol",
-      "nivel": "Básico"
+      "name": "Japonês",
+      "level": "Básico"
     }
   ],
-  "educacao": [
+  "education": [
     {
-      "nome": "dio.me",
-      "descricao": "Aprendizado contínuo na maior plataforma de educação aberta da América Latina.",
-      "instituicao": "Digital Innovation One (DIO)",
-      "periodo": {
-        "inicio": "2019",
-        "fim": "Atualmente"
+      "name": "dio.me",
+      "description": "Aprendizado contínuo na maior plataforma de educação aberta da América Latina.",
+      "institute": "Digital Innovation One (DIO)",
+      "period": {
+        "start": "2022",
+        "end": "Atualmente"
       },
-      "certificados": [
+      "certificates": [
         {
-          "nome": "Formação: Blockchain Specialist (25h)",
-          "link": "https://www.dio.me/certificate/28601B02"
-        },
-        {
-          "nome": "Curso: Desenvolvimento Mobile Nativo Para Android",
-          "link": "https://www.dio.me/certificate/07041B99"
-        },
-        {
-          "nome": "Curso: Componentes, Layouts e UI/UX Em Apps Android",
-          "link": "https://www.dio.me/certificate/F12AC30B"
-        },
-        {
-          "nome": "Curso: Java e Kotlin Juntos!? Construindo Apps Android",
-          "link": "https://www.dio.me/certificate/3FB20BF1"
-        },
-        {
-          "nome": "Curso: Explorando o Firebase Para Apps Android Resiliente",
-          "link": "https://www.dio.me/certificate/BA099F34"
+          "name": "Formação: JavaScript Developer (39h)",
+          "link": "https://www.dio.me/certificate/..."
         }
       ]
     },
     {
-      "nome": "Doutorado em Engenharia de Software",
-      "descricao": "Uma Infraestrutura de Apoio ao Ensino e Aprendizagem de Línguas de Sinais",
-      "instituicao": "Universidade de São Paulo (USP)",
-      "periodo": {
-        "inicio": "2018",
-        "fim": "Atualmente"
+      "name": "Técnico em Auntomação Industrial.",
+      "description": "Estudos de Elétrica; Mecânica; Pneumática; Instrumentação e Controle; Programação em C e ladder; e IoT para industrial 4.0.",
+      "institute": "Universidade de São Paulo (USP)",
+      "period": {
+        "start": "2016",
+        "end": "2018"
       }
     },
     {
-      "nome": "Mestrado em Engenharia de Software",
-      "descricao": "Estudo e Definição de Uma Linha de Produtos de Software Para o Desenvolvimento de Aplicações Educacionais Moveis",
-      "instituicao": "Universidade de São Paulo (USP)",
-      "periodo": {
-        "inicio": "2012",
-        "fim": "2015"
+      "name": "Graduação Tecnológica em Segurança da Informação.",
+      "description": "Estudo de técnica e formas de proteção à informação digital.",
+      "institute": "Universidade Católica de Brasília",
+      "period": {
+        "start": "2019",
+        "end": "2022"
       }
     },
     {
-      "nome": "Bacharelado em Engenharia de Computação",
-      "descricao": "",
-      "instituicao": "Universidade de Araraquara (UNIARA)",
-      "periodo": {
-        "inicio": "2007",
-        "fim": "2011"
+      "name": "Licienciatura em Ciencias da Computação",
+      "description": "Estudos Tecnológicos, Pedagógicos e Científicos de métodos e procedimentos para melhorar o desenvolvimento da educação com ajuda das tecnologias.",
+      "institute": "Instituto Federal de Educação, Ciência e Tecnologia Baiano (IFBAIANO)",
+      "period": {
+        "start": "2020",
+        "end": "Atualmente"
       }
     }
   ],
   "portfolio": [
     {
-      "nome": "Crie o seu NFT de Pokémon com Blockchain (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/formacao-blockchain-dio",
-      "certificado": "https://www.dio.me/certificate/34F1FBA1"
+      "name": "Calculadora em JavaScript",
+      "gitHub": "https://github.com/Pedrobolfute/calculator"
     },
     {
-      "nome": "App Nativo Sobre Futebol Feminino com Android Jetpack e Java (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/soccer-news-app",
-      "certificado": "https://www.dio.me/certificate/9A5090FC"
+      "name": "Responsive IMC em JavaScript",
+      "gitHub": "https://github.com/Pedrobolfute/responsive-IMC"
+    },
+    {
+      "name": "BashScript explora bug no Github",
+      "gitHub": "https://github.com/Pedrobolfute/Verdinho"
+    },
+    {
+      "name": "WordPress Site",
+      "gitHub": "https://diarionfoot.com/"
     }
   ],
-  "experiencias": [
+  "experiences": [
     {
-      "nome": "Education Tech Lead ",
-      "descricao": "",
-      "instituicao": "Digital Innovation One (DIO)",
-      "periodo": {
-        "inicio": "03/2021",
-        "fim": "Atualmente"
+      "name": "Scrum Master no projeto da faculdade / Ifbaiano",
+      "description": "Experiência muito gratificante como Scrum Master usando metodologias ágeis como pré-requisito para conclusão da matéria engenharia de software no desenvolvimento do projeto portaria do ifbaiano. ",
+      "institute": "Ifbaiano",
+      "period": {
+        "start": "2022",
+        "end": "2022"
+      }
+    },
+    {
+      "name": "Front-end Developer nos peojtos da faculdade/ Ifbaiano",
+      "description": "Novas experências adquiridas desenvolvendo projetos na disciplina de WEB 1, Juntamente com o meu exelente grupo de projetos, ultilizando dos métodos de versionamento de código aprendidas na matéria de Análise de Projeto de Sistemas.",
+      "institute": "Ifbaiano",
+      "period": {
+        "start": "2023",
+        "end": "Atualmente"
+      }
+    },
+    {
+      "name": "Back-end Developer nos peojtos da faculdade/ Ifbaiano",
+      "description": "Experiência sensacional que estou adquirindo em banco de dados, ultilizando o APEX em projetos de banco de dados e em experiências avulsas ultilizando o Dbeaver com Mysql e JavaScript.",
+      "institute": "Ifbaiano",
+      "period": {
+        "start": "2023",
+        "end": "Atualmente"
       }
     }
   ]
