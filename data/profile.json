@@ -4,7 +4,7 @@
   "place": "Nova Era - MG",
   "phone": "(31) 98803-9679",
   "mail": "pepenike-101@hotmail.com",
-  "photo": "https://raw.githubusercontent.com/Pedrobolfute/provocation-100-diebus/main/dia%23013/assets/img/3.png", 
+  "photo": "https://raw.githubusercontent.com/Pedrobolfute/provocation-100-diebus/main/dia%23013/assets/img/3.png",
   "skills": {
     "hardSkills": [
       {
@@ -20,36 +20,60 @@
         "logo": "assets/img/icons/tools/javaScript.svg"
       },
       {
-        "name": "Git",
-        "logo": "assets/img/icons/tools/git.svg"
+        "name": "TypeScript",
+        "logo": "assets/img/icons/tools/typescript.svg"
       },
       {
-        "name": "Figma",
-        "logo": "assets/img/icons/tools/figma.svg"
+        "name": "Angular",
+        "logo": "assets/img/icons/tools/angular.svg"
+      },
+      {
+        "name": "Kotlin",
+        "logo": "assets/img/icons/tools/kitlin.svg"
+      },
+      {
+        "name": "NodeJs",
+        "logo": "assets/img/icons/tools/nodejs.svg"
       },
       {
         "name": "MySql",
         "logo": "assets/img/icons/tools/mysql.svg"
       },
       {
-        "name": "AWS",
-        "logo": "assets/img/icons/tools/aws.svg"
+        "name": "OracleDB",
+        "logo": "assets/img/icons/tools/oracle.svg"
       },
       {
-        "name": "WordPress",
-        "logo": "assets/img/icons/tools/wordpress.svg"
-      },
-      {
-        "name": "Github",
-        "logo": "assets/img/icons/tools/github.svg"
+        "name": "BashScript",
+        "logo": "assets/img/icons/tools/bash.svg"
       },
       {
         "name": "Linux",
         "logo": "assets/img/icons/tools/linux.svg"
       },
       {
-        "name": "NodeJs",
-        "logo": "assets/img/icons/tools/nodejs.svg"
+        "name": "Git",
+        "logo": "assets/img/icons/tools/git.svg"
+      },
+      {
+        "name": "Github",
+        "logo": "assets/img/icons/tools/github.svg"
+      },
+      {
+        "name": "Figma",
+        "logo": "assets/img/icons/tools/figma.svg"
+      },
+      {
+        "name": "AWS",
+        "logo": "assets/img/icons/tools/aws.svg"
+      },
+      {
+        "name": "Discord",
+        "logo": "assets/img/icons/tools/discord.svg"
+      },
+      {
+        "name": "WordPress",
+        "logo": "assets/img/icons/tools/wordpress.svg"
       }
     ],
     "softSkills": [
@@ -121,25 +145,44 @@
   ],
   "portfolio": [
     {
-      "name": "Calculadora em JavaScript",
-      "src": "https://github.com/Pedrobolfute/calculator",
-      "site" : "GitHub"
+      "name": "Aplicativo pomodoro",
+      "src": "https://pedrobolfute.github.io/PomOnFoot/",
+      "site": "GitHub"
     },
     {
-      "name": "Responsive IMC em JavaScript",
+      "name": "Calculadora em JavaScript Vanilla",
+      "src": "https://github.com/Pedrobolfute/calculator",
+      "site": "GitHub"
+    },
+    {
+      "name": "Jogo de Matemática com JavaScript Vanilla",
+      "src": "https://pedrobolfute.github.io/mathGame/",
+      "site": "GitHub"
+    },
+    {
+      "name": "One Piece Bash Game",
+      "src": "https://github.com/Pedrobolfute/onePieceBashGame",
+      "site": "GitHub"
+    },
+    {
+      "name": "Responsive IMC em JavaScript Vanilla",
       "src": "https://github.com/Pedrobolfute/responsive-IMC",
-      "site" : "GitHub"
+      "site": "GitHub"
     },
     {
       "name": "BashScript explora bug no Github",
       "src": "https://github.com/Pedrobolfute/Verdinho",
-      "site" : "GitHub"
+      "site": "GitHub"
     },
     {
       "name": "WordPress Site",
       "src": "https://diarionfoot.com/",
-      "site" : "WordPress"
-
+      "site": "WordPress"
+    },
+    {
+      "name": "Discord Server",
+      "src": "https://discord.com/invite/KU4YNdBBv6",
+      "site": "Discord"
     }
   ],
   "experiences": [
