@@ -42,8 +42,8 @@ function updateProfilePortfolio(profileData){
   const profilePortfolio = document.querySelector('.portfolio')
   profilePortfolio.innerHTML = profileData.portfolio.map(function(data){
    return `<li>
-    <h3 class="title ${data.gitHub ? 'github' : ''}">${data.name}</h3>
-    <a href="${data.gitHub}" target="_blank">${data.gitHub}</a>
+    <h3 class="title ${data.site === 'GitHub' ? 'github' : ''}">${data.name}</h3>
+    <a href="${data.src}" target="_blank">${data.src}</a>
     </li>`}).join('')
 }
 
@@ -63,6 +63,23 @@ function updateProfileXp(profileData){
   `).join('')
 }
 
+function updateProfileXpAcademic(profileData){
+  const profileXp = document.querySelector('.academic')
+
+  profileXp.innerHTML = profileData.education.map(xp => `
+  
+  <li>
+  <h3 class="title">${xp.name}</h3>
+  <p>${xp.institute}</p>
+  <p class="period">${xp.period.start}-${xp.period.end}</p>
+  <p>
+    ${xp.description} 
+  </p>
+</li>
+  
+  `).join('')
+}
+
 (async () => {
   const profileData = await requestJsonInfo()
   console.log(profileData)
@@ -72,4 +89,6 @@ function updateProfileXp(profileData){
   updateProfileLanguage(profileData)
   updateProfilePortfolio(profileData)
   updateProfileXp(profileData)
+  updateProfileXpAcademic(profileData)
+
 })()

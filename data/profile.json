@@ -1,64 +1,97 @@
 {
   "name": "Pedro H Salomé Paixão",
-  "title": "Estudante",
-  "place": "Nova Era - MG",
-  "phone": "(31) 98803-9679",
+  "title": "Front-end Developer",
+  "place": "Nova Era - MG | Senhor do Bonfim - BA",
+  "phone": "(31) 99935-4728",
   "mail": "pepenike-101@hotmail.com",
-  "photo": "https://raw.githubusercontent.com/Pedrobolfute/provocation-100-diebus/main/dia%23013/assets/img/3.png", 
+  "photo": "https://raw.githubusercontent.com/Pedrobolfute/provocation-100-diebus/main/dia%23013/assets/img/3.png",
   "skills": {
     "hardSkills": [
       {
         "name": "Html",
-        "logo": "/assets/img/icons/tools/html.svg"
+        "logo": "assets/img/icons/tools/html.svg"
       },
       {
         "name": "Css",
-        "logo": "/assets/img/icons/tools/css.svg"
+        "logo": "assets/img/icons/tools/css.svg"
       },
       {
         "name": "JavaScript",
-        "logo": "/assets/img/icons/tools/javaScript.svg"
+        "logo": "assets/img/icons/tools/javaScript.svg"
       },
       {
-        "name": "Git",
-        "logo": "/assets/img/icons/tools/git.svg"
+        "name": "TypeScript",
+        "logo": "assets/img/icons/tools/typescript.svg"
       },
       {
-        "name": "Figma",
-        "logo": "/assets/img/icons/tools/figma.svg"
+        "name": "Angular",
+        "logo": "assets/img/icons/tools/angular.svg"
       },
       {
-        "name": "MySql",
-        "logo": "/assets/img/icons/tools/mysql.svg"
-      },
-      {
-        "name": "AWS",
-        "logo": "/assets/img/icons/tools/aws.svg"
-      },
-      {
-        "name": "WordPress",
-        "logo": "/assets/img/icons/tools/wordpress.svg"
-      },
-      {
-        "name": "Github",
-        "logo": "/assets/img/icons/tools/github.svg"
-      },
-      {
-        "name": "Linux",
-        "logo": "/assets/img/icons/tools/linux.svg"
+        "name": "Kotlin",
+        "logo": "assets/img/icons/tools/kotlin.svg"
       },
       {
         "name": "NodeJs",
-        "logo": "/assets/img/icons/tools/nodejs.svg"
+        "logo": "assets/img/icons/tools/nodejs.svg"
+      },
+      {
+        "name": "MySql",
+        "logo": "assets/img/icons/tools/mysql.svg"
+      },
+      {
+        "name": "OracleDB",
+        "logo": "assets/img/icons/tools/oracle.svg"
+      },
+      {
+        "name": "BashScript",
+        "logo": "assets/img/icons/tools/bash.svg"
+      },
+      {
+        "name": "Linux",
+        "logo": "assets/img/icons/tools/linux.svg"
+      },
+      {
+        "name": "Git",
+        "logo": "assets/img/icons/tools/git.svg"
+      },
+      {
+        "name": "Github",
+        "logo": "assets/img/icons/tools/github.svg"
+      },
+      {
+        "name": "Figma",
+        "logo": "assets/img/icons/tools/figma.svg"
+      },
+      {
+        "name": "AWS",
+        "logo": "assets/img/icons/tools/aws.svg"
+      },
+      {
+        "name": "Discord",
+        "logo": "assets/img/icons/tools/discord.svg"
+      },
+      {
+        "name": "WordPress",
+        "logo": "assets/img/icons/tools/wordpress.svg"
       }
     ],
     "softSkills": [
-      "Liderança",
       "Empatia",
+      "Simpatia",
+      "Humildade",
+      "Educado",
+      "Integro",
+      "Confiante",
+      "Motivação",
+      "Responsabilidade",
+      "Liderança",
       "Organização",
       "Trabalho em equipe",
       "Flexibilidade",
-      "Esforçado"
+      "Esforçado",
+      "Resiliencia",
+      "Criativo"
     ]
   },
   "languages": [
@@ -68,78 +101,138 @@
     },
     {
       "name": "Inglês",
-      "level": "Intermediário"
-    },
-    {
-      "name": "Japonês",
-      "level": "Básico"
+      "level": "Intermediário-Avançado"
     }
   ],
   "education": [
     {
-      "name": "dio.me",
-      "description": "Aprendizado contínuo na maior plataforma de educação aberta da América Latina.",
-      "institute": "Digital Innovation One (DIO)",
+      "name": "Ciencias da Computação. (Licenciatura)",
+      "institute": "Instituro Federal de Educação, Ciencia e Tecnologia Baiano - IFBAIANO",
+      "description": "Na faculdade participo do grupo de Robótica Educacional do Piemonte Norte do Itapicuru (GREP-Bonfim); Sou bolsista da CAPES no programa institucional de Residência Pedagógica; Participei do Grupo de Estudos Linux (IFLinux); Participei do projeto de extenção Mundo Maker e Aprendizagem Creativa: Modelagem e Impressão 3D; entre muitas outras coisas...",
       "period": {
-        "start": "2022",
-        "end": "Atualmente"
-      },
-      "certificates": [
-        {
-          "name": "Formação: JavaScript Developer (39h)",
-          "link": "https://www.dio.me/certificate/..."
-        }
-      ]
-    },
-    {
-      "name": "Técnico em Auntomação Industrial.",
-      "description": "Estudos de Elétrica; Mecânica; Pneumática; Instrumentação e Controle; Programação em C e ladder; e IoT para industrial 4.0.",
-      "institute": "Universidade de São Paulo (USP)",
-      "period": {
-        "start": "2016",
-        "end": "2018"
+        "start": "2020",
+        "end": "2025"
       }
     },
     {
-      "name": "Graduação Tecnológica em Segurança da Informação.",
-      "description": "Estudo de técnica e formas de proteção à informação digital.",
-      "institute": "Universidade Católica de Brasília",
+      "name": "Segurança da Informação. (Tecnólogo)",
+      "institute": "Universidade Católica de Brasília - UCB",
+      "description": "Estudos focados em técnicas para gerenciamento de redes de forma a proteger a Confiabilidade, Integridade e Disponibilidade dos dados na rede.",
       "period": {
         "start": "2019",
         "end": "2022"
       }
     },
     {
-      "name": "Licienciatura em Ciencias da Computação",
-      "description": "Estudos Tecnológicos, Pedagógicos e Científicos de métodos e procedimentos para melhorar o desenvolvimento da educação com ajuda das tecnologias.",
-      "institute": "Instituto Federal de Educação, Ciência e Tecnologia Baiano (IFBAIANO)",
+      "name": "Técnico em Auntomação Industrial. (Técnico)",
+      "institute": "SENAI/FIEMG - Nansei Araújo, João Monlevade",
+      "description": "Estudos de Elétrica; Mecânica; Pneumática; Instrumentação e Controle; Programação em C e ladder; e IoT para industrial 4.0.; Os principais projetos desenvolvido foram: a utilização do PLC para controlar duas caixas de água com desnível e o projeto final de curso, no qual criamos um amaçador de latinhas automatizado, utilizando silindro pneumático e sensores.",
       "period": {
-        "start": "2020",
-        "end": "Atualmente"
+        "start": "2016",
+        "end": "2018"
+      }
+    },
+
+    {
+      "name": "Fundamental Hacking - 40h",
+      "institute": "Hacker Security (HackerSec)",
+      "description": "Curso Básico sobre hacking, no qual foi abordado os tipos de ataque, virus, malware, segurança em servidor, ferramentas de Pentests e Forence.",
+      "period": {
+        "start": "2018",
+        "end": "2018"
+      }
+    },
+
+    {
+      "name": "Fundamental Linux - 40h",
+      "institute": "Hacker Security (HackerSec)",
+      "description": "Curso de Linux, onde vimos Linux Debian 9 e Linux CentOS; Estrutura de diretório, Navegação no terminal e alguns arquivos de configuração, como o do grub, source.list, perfil...",
+      "period": {
+        "start": "2018",
+        "end": "2018"
+      }
+    },
+
+    {
+      "name": "Linux Experience - 42h",
+      "institute": "Digital Innovation One (DIO)",
+      "description": "Bootcamp intermediário de Linux completo; vimos como criar scripts voltado para o cenário docker. Escalar docker containers como microservisos (DevOps).",
+      "period": {
+        "start": "2022",
+        "end": "2022"
+      }
+    },
+
+    {
+      "name": "Formação JavaScript Developer - 39h",
+      "institute": "Digital Innovation One (DIO)",
+      "description": "Curso/bootcamp de JavaScript completo",
+      "period": {
+        "start": "2023",
+        "end": "2023"
+      }
+    },
+
+    {
+      "name": "Desenvolvimento Frontend com Angular - 68h",
+      "institute": "Digital Innovation One (DIO)",
+      "description": "Bootcamp de desenvolvimento Angular completo. Vimos os Shadow DOMs aprendendo como funciona as tags de elementos (componentes), assim partindo para Angular e seus components, conceito de rotas em um Single Page Application - SPA.",
+      "period": {
+        "start": "2023",
+        "end": "2023"
+      }
+    },
+
+    {
+      "name": "Dio Campus Expert | 7 edição",
+      "institute": "Digital Innovation One (DIO)",
+      "description": "Dentre 10000 inscrições, fui um dos 3000 selecionados como embaixador da DIO Campus Expert | 7 Edição",
+      "period": {
+        "start": "2023",
+        "end": "2023"
       }
     }
   ],
   "portfolio": [
     {
-      "name": "Calculadora em JavaScript",
-      "src": "https://github.com/Pedrobolfute/calculator",
-      "site" : "GitHub"
+      "name": "Aplicativo pomodoro",
+      "src": "https://pedrobolfute.github.io/PomOnFoot/",
+      "site": "GitHub"
     },
     {
-      "name": "Responsive IMC em JavaScript",
+      "name": "Calculadora em JavaScript Vanilla",
+      "src": "https://pedrobolfute.github.io/calculator/",
+      "site": "GitHub"
+    },
+    {
+      "name": "Jogo de Matemática com JavaScript Vanilla",
+      "src": "https://pedrobolfute.github.io/mathGame/",
+      "site": "GitHub"
+    },
+    {
+      "name": "One Piece Bash Game",
+      "src": "https://github.com/Pedrobolfute/onePieceBashGame",
+      "site": "GitHub"
+    },
+    {
+      "name": "Responsive IMC em JavaScript Vanilla",
       "src": "https://github.com/Pedrobolfute/responsive-IMC",
-      "site" : "GitHub"
+      "site": "GitHub"
     },
     {
       "name": "BashScript explora bug no Github",
       "src": "https://github.com/Pedrobolfute/Verdinho",
-      "site" : "GitHub"
+      "site": "GitHub"
     },
     {
       "name": "WordPress Site",
       "src": "https://diarionfoot.com/",
-      "site" : "WordPress"
-
+      "site": "WordPress"
+    },
+    {
+      "name": "Discord Server",
+      "src": "https://discord.com/invite/KU4YNdBBv6",
+      "site": "Discord"
     }
   ],
   "experiences": [
