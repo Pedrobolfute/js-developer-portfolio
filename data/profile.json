@@ -1,128 +1,266 @@
 {
-  "nome": "Venilton FalvoJr",
-  "titulo": "Education Tech Lead na DIO",
-  "localidade": {
-    "cidade": "Araraquara",
-    "estado": "São Paulo",
-    "pais": "Brasil"
-  },
-  "telefone": "(16) 99721-8281",
-  "email": "venilton@dio.me",
+  "name": "Pedro H Salomé Paixão",
+  "title": "Front-end Developer",
+  "place": "Nova Era - MG | Senhor do Bonfim - BA",
+  "phone": "(31) 99935-4728",
+  "mail": "pepenike-101@hotmail.com",
+  "photo": "https://raw.githubusercontent.com/Pedrobolfute/provocation-100-diebus/main/dia%23013/assets/img/3.png",
   "skills": {
     "hardSkills": [
       {
-        "nome": "Android",
-        "logo": "TODO"
+        "name": "Html",
+        "logo": "assets/img/icons/tools/html.svg"
       },
       {
-        "nome": "Java",
-        "logo": "TODO"
+        "name": "Css",
+        "logo": "assets/img/icons/tools/css.svg"
       },
       {
-        "nome": "Kotlin",
-        "logo": "TODO"
+        "name": "JavaScript",
+        "logo": "assets/img/icons/tools/javaScript.svg"
+      },
+      {
+        "name": "TypeScript",
+        "logo": "assets/img/icons/tools/typescript.svg"
+      },
+      {
+        "name": "Angular",
+        "logo": "assets/img/icons/tools/angular.svg"
+      },
+      {
+        "name": "Kotlin",
+        "logo": "assets/img/icons/tools/kotlin.svg"
+      },
+      {
+        "name": "NodeJs",
+        "logo": "assets/img/icons/tools/nodejs.svg"
+      },
+      {
+        "name": "MySql",
+        "logo": "assets/img/icons/tools/mysql.svg"
+      },
+      {
+        "name": "OracleDB",
+        "logo": "assets/img/icons/tools/oracle.svg"
+      },
+      {
+        "name": "BashScript",
+        "logo": "assets/img/icons/tools/bash.svg"
+      },
+      {
+        "name": "Linux",
+        "logo": "assets/img/icons/tools/linux.svg"
+      },
+      {
+        "name": "Git",
+        "logo": "assets/img/icons/tools/git.svg"
+      },
+      {
+        "name": "Github",
+        "logo": "assets/img/icons/tools/github.svg"
+      },
+      {
+        "name": "Figma",
+        "logo": "assets/img/icons/tools/figma.svg"
+      },
+      {
+        "name": "AWS",
+        "logo": "assets/img/icons/tools/aws.svg"
+      },
+      {
+        "name": "Discord",
+        "logo": "assets/img/icons/tools/discord.svg"
+      },
+      {
+        "name": "WordPress",
+        "logo": "assets/img/icons/tools/wordpress.svg"
       }
     ],
     "softSkills": [
-      "Comunicação",
       "Empatia",
-      "Poder de Sedução Imcomparável"
+      "Simpatia",
+      "Humildade",
+      "Educado",
+      "Integro",
+      "Confiante",
+      "Motivação",
+      "Responsabilidade",
+      "Liderança",
+      "Organização",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Esforçado",
+      "Resiliencia",
+      "Criativo"
     ]
   },
-  "idiomas": [
+  "languages": [
     {
-      "nome": "Português",
-      "nivel": "Nativo"
+      "name": "Português",
+      "level": "Nativo"
     },
     {
-      "nome": "Inglês",
-      "nivel": "Intermediário"
-    },
-    {
-      "nome": "Espanhol",
-      "nivel": "Básico"
+      "name": "Inglês",
+      "level": "Intermediário-Avançado"
     }
   ],
-  "educacao": [
+  "education": [
     {
-      "nome": "dio.me",
-      "descricao": "Aprendizado contínuo na maior plataforma de educação aberta da América Latina.",
-      "instituicao": "Digital Innovation One (DIO)",
-      "periodo": {
-        "inicio": "2019",
-        "fim": "Atualmente"
-      },
-      "certificados": [
-        {
-          "nome": "Formação: Blockchain Specialist (25h)",
-          "link": "https://www.dio.me/certificate/28601B02"
-        },
-        {
-          "nome": "Curso: Desenvolvimento Mobile Nativo Para Android",
-          "link": "https://www.dio.me/certificate/07041B99"
-        },
-        {
-          "nome": "Curso: Componentes, Layouts e UI/UX Em Apps Android",
-          "link": "https://www.dio.me/certificate/F12AC30B"
-        },
-        {
-          "nome": "Curso: Java e Kotlin Juntos!? Construindo Apps Android",
-          "link": "https://www.dio.me/certificate/3FB20BF1"
-        },
-        {
-          "nome": "Curso: Explorando o Firebase Para Apps Android Resiliente",
-          "link": "https://www.dio.me/certificate/BA099F34"
-        }
-      ]
-    },
-    {
-      "nome": "Doutorado em Engenharia de Software",
-      "descricao": "Uma Infraestrutura de Apoio ao Ensino e Aprendizagem de Línguas de Sinais",
-      "instituicao": "Universidade de São Paulo (USP)",
-      "periodo": {
-        "inicio": "2018",
-        "fim": "Atualmente"
+      "name": "Ciencias da Computação. (Licenciatura)",
+      "institute": "Instituro Federal de Educação, Ciencia e Tecnologia Baiano - IFBAIANO",
+      "description": "Na faculdade participo do grupo de Robótica Educacional do Piemonte Norte do Itapicuru (GREP-Bonfim); Sou bolsista da CAPES no programa institucional de Residência Pedagógica; Participei do Grupo de Estudos Linux (IFLinux); Participei do projeto de extenção Mundo Maker e Aprendizagem Creativa: Modelagem e Impressão 3D; entre muitas outras coisas...",
+      "period": {
+        "start": "2020",
+        "end": "2025"
       }
     },
     {
-      "nome": "Mestrado em Engenharia de Software",
-      "descricao": "Estudo e Definição de Uma Linha de Produtos de Software Para o Desenvolvimento de Aplicações Educacionais Moveis",
-      "instituicao": "Universidade de São Paulo (USP)",
-      "periodo": {
-        "inicio": "2012",
-        "fim": "2015"
+      "name": "Segurança da Informação. (Tecnólogo)",
+      "institute": "Universidade Católica de Brasília - UCB",
+      "description": "Estudos focados em técnicas para gerenciamento de redes de forma a proteger a Confiabilidade, Integridade e Disponibilidade dos dados na rede.",
+      "period": {
+        "start": "2019",
+        "end": "2022"
       }
     },
     {
-      "nome": "Bacharelado em Engenharia de Computação",
-      "descricao": "",
-      "instituicao": "Universidade de Araraquara (UNIARA)",
-      "periodo": {
-        "inicio": "2007",
-        "fim": "2011"
+      "name": "Técnico em Auntomação Industrial. (Técnico)",
+      "institute": "SENAI/FIEMG - Nansei Araújo, João Monlevade",
+      "description": "Estudos de Elétrica; Mecânica; Pneumática; Instrumentação e Controle; Programação em C e ladder; e IoT para industrial 4.0.; Os principais projetos desenvolvido foram: a utilização do PLC para controlar duas caixas de água com desnível e o projeto final de curso, no qual criamos um amaçador de latinhas automatizado, utilizando silindro pneumático e sensores.",
+      "period": {
+        "start": "2016",
+        "end": "2018"
+      }
+    },
+
+    {
+      "name": "Fundamental Hacking - 40h",
+      "institute": "Hacker Security (HackerSec)",
+      "description": "Curso Básico sobre hacking, no qual foi abordado os tipos de ataque, virus, malware, segurança em servidor, ferramentas de Pentests e Forence.",
+      "period": {
+        "start": "2018",
+        "end": "2018"
+      }
+    },
+
+    {
+      "name": "Fundamental Linux - 40h",
+      "institute": "Hacker Security (HackerSec)",
+      "description": "Curso de Linux, onde vimos Linux Debian 9 e Linux CentOS; Estrutura de diretório, Navegação no terminal e alguns arquivos de configuração, como o do grub, source.list, perfil...",
+      "period": {
+        "start": "2018",
+        "end": "2018"
+      }
+    },
+
+    {
+      "name": "Linux Experience - 42h",
+      "institute": "Digital Innovation One (DIO)",
+      "description": "Bootcamp intermediário de Linux completo; vimos como criar scripts voltado para o cenário docker. Escalar docker containers como microservisos (DevOps).",
+      "period": {
+        "start": "2022",
+        "end": "2022"
+      }
+    },
+
+    {
+      "name": "Formação JavaScript Developer - 39h",
+      "institute": "Digital Innovation One (DIO)",
+      "description": "Curso/bootcamp de JavaScript completo",
+      "period": {
+        "start": "2023",
+        "end": "2023"
+      }
+    },
+
+    {
+      "name": "Desenvolvimento Frontend com Angular - 68h",
+      "institute": "Digital Innovation One (DIO)",
+      "description": "Bootcamp de desenvolvimento Angular completo. Vimos os Shadow DOMs aprendendo como funciona as tags de elementos (componentes), assim partindo para Angular e seus components, conceito de rotas em um Single Page Application - SPA.",
+      "period": {
+        "start": "2023",
+        "end": "2023"
+      }
+    },
+
+    {
+      "name": "Dio Campus Expert | 7 edição",
+      "institute": "Digital Innovation One (DIO)",
+      "description": "Dentre 10000 inscrições, fui um dos 3000 selecionados como embaixador da DIO Campus Expert | 7 Edição",
+      "period": {
+        "start": "2023",
+        "end": "2023"
       }
     }
   ],
   "portfolio": [
     {
-      "nome": "Crie o seu NFT de Pokémon com Blockchain (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/formacao-blockchain-dio",
-      "certificado": "https://www.dio.me/certificate/34F1FBA1"
+      "name": "Aplicativo pomodoro",
+      "src": "https://pedrobolfute.github.io/PomOnFoot/",
+      "site": "GitHub"
     },
     {
-      "nome": "App Nativo Sobre Futebol Feminino com Android Jetpack e Java (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/soccer-news-app",
-      "certificado": "https://www.dio.me/certificate/9A5090FC"
+      "name": "Calculadora em JavaScript Vanilla",
+      "src": "https://pedrobolfute.github.io/calculator/",
+      "site": "GitHub"
+    },
+    {
+      "name": "Jogo de Matemática com JavaScript Vanilla",
+      "src": "https://pedrobolfute.github.io/mathGame/",
+      "site": "GitHub"
+    },
+    {
+      "name": "One Piece Bash Game",
+      "src": "https://github.com/Pedrobolfute/onePieceBashGame",
+      "site": "GitHub"
+    },
+    {
+      "name": "Responsive IMC em JavaScript Vanilla",
+      "src": "https://github.com/Pedrobolfute/responsive-IMC",
+      "site": "GitHub"
+    },
+    {
+      "name": "BashScript explora bug no Github",
+      "src": "https://github.com/Pedrobolfute/Verdinho",
+      "site": "GitHub"
+    },
+    {
+      "name": "WordPress Site",
+      "src": "https://diarionfoot.com/",
+      "site": "WordPress"
+    },
+    {
+      "name": "Discord Server",
+      "src": "https://discord.com/invite/KU4YNdBBv6",
+      "site": "Discord"
     }
   ],
-  "experiencias": [
+  "experiences": [
     {
-      "nome": "Education Tech Lead ",
-      "descricao": "",
-      "instituicao": "Digital Innovation One (DIO)",
-      "periodo": {
-        "inicio": "03/2021",
-        "fim": "Atualmente"
+      "name": "Scrum Master no projeto da faculdade / Ifbaiano",
+      "description": "Experiência muito gratificante como Scrum Master usando metodologias ágeis como pré-requisito para conclusão da matéria engenharia de software no desenvolvimento do projeto portaria do ifbaiano. ",
+      "institute": "Ifbaiano",
+      "period": {
+        "start": "2022",
+        "end": "2022"
+      }
+    },
+    {
+      "name": "Front-end Developer nos peojtos da faculdade/ Ifbaiano",
+      "description": "Novas experências adquiridas desenvolvendo projetos na disciplina de WEB 1, Juntamente com o meu exelente grupo de projetos, ultilizando dos métodos de versionamento de código aprendidas na matéria de Análise de Projeto de Sistemas.",
+      "institute": "Ifbaiano",
+      "period": {
+        "start": "2023",
+        "end": "Atualmente"
+      }
+    },
+    {
+      "name": "Back-end Developer nos peojtos da faculdade/ Ifbaiano",
+      "description": "Experiência sensacional que estou adquirindo em banco de dados, ultilizando o APEX em projetos de banco de dados e em experiências avulsas ultilizando o Dbeaver com Mysql e JavaScript.",
+      "institute": "Ifbaiano",
+      "period": {
+        "start": "2023",
+        "end": "Atualmente"
       }
     }
   ]
